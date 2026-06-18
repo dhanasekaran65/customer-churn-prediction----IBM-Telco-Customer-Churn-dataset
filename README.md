@@ -51,13 +51,13 @@ customer-churn-prediction/
 ├── data/
 │   └── telco_customer_churn.csv
 ├── notebooks/
-│   └── customer_churn_prediction.ipynb   # full EDA + modeling, with outputs
+│   └── customer_churn_prediction.ipynb   
 ├── models/
-│   └── churn_model.pkl                   # trained model + preprocessing artifacts
+│   └── churn_model.pkl                   
 ├── outputs/
-│   └── *.png                             # saved charts
+│   └── *.png                            
 ├── src/
-│   └── predict_new_customer.py           # score a new customer from the command line
+│   └── predict_new_customer.py          
 ├── requirements.txt
 └── README.md
 ```
